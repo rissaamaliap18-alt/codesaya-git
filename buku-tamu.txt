@@ -941,4 +941,11 @@ CodeSaya: rissaama
 Github: rissaamaliap18-alt
 Nama: -
 Website: -
-Pesan: -
+Pesan: - 
+
+Entry: 133
+CodeSaya: rissaama
+Github: rissaamaliap18-alt
+Nama: -
+Website: -
+Pesan: - 
